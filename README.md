@@ -1,0 +1,1 @@
+# gnomint-icon-theme
