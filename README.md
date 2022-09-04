@@ -15,4 +15,4 @@
 - 'Mint-Y' is based on 'Moka' (apps) by 'Sam Hewitt' --> [https://github.com/snwh/moka-icon-theme](https://github.com/snwh/moka-icon-theme)
 - 'Mint-Y' is based on 'Arc' (folders) by 'horst3180' --> [https://github.com/horst3180/arc-icon-theme](https://github.com/horst3180/arc-icon-theme)
 - 'Mint-Y' is based on 'Paper' (devices) by 'Sam Hewitt' --> [https://github.com/snwh/paper-icon-theme](https://github.com/snwh/paper-icon-theme)
-- 'Mint-Y' is based on 'Elementary' (mimetypes) by 'Elementary OS team' --> [https://github.com/elementary/icons](https://github.com/elementary/icons)
+- 'Mint-Y' is based on 'Elementary' (mimetypes) by 'Elementary OS' --> [https://github.com/elementary/icons](https://github.com/elementary/icons)
