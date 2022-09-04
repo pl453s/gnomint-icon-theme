@@ -1,5 +1,7 @@
 # Gnomint icon theme
 
+<img src="overview.png">
+
 New icons:
 
 - Fragments
@@ -8,9 +10,9 @@ New icons:
 
 Variants from existing icons:
 
+- Firefox Nightly
 - Nautilus
 - Portfolio
-- places folders
 
 Symlinks to existing icons:
 
