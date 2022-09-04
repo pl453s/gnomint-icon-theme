@@ -4,8 +4,8 @@
 
 ## Additions
 
-- New icons: Fragments / AnyDesk / Zoom
-- Variants from existing icons: Firefox Nightly / Nautilus / Portfolio
+- New icons: Fragments / Zoom / AnyDesk
+- New variants: Firefox Nightly / Nautilus / Portfolio
 - Symlinks to existing icons for the Gnome apps and other new apps
 - Symlinks to fix new icon names (like with Flathub apps)
 
