@@ -9,7 +9,7 @@
 - Symlinks to existing icons for the Gnome apps and other new apps
 - Symlinks to fix new icon names (like with Flathub apps)
 
-***Differences full list in the 'DIFF' file***
+*Differences full list in the 'DIFF' file*
 
 ## Credits
 
