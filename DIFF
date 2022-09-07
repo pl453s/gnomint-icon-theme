@@ -1,0 +1,117 @@
+########## GNOMINT EXCLUSIVE ICONS
+
+##### REAL NEW ICONS
+anydesk.png
+com.anydesk.Anydesk.png
+fragments.png
+de.haeckerfelix.Fragments.png
+zoom.png
+Zoom.png
+us.zoom.Zoom.png
+
+##### VARIANTS FROM EXISTING
+nautilus.png
+org.gnome.Nautilus.png
+portfolio.png
+dev.tchx84.Portfolio.png
+firefox-aurora.png		--> !!!DIFF!!!
+firefox-developer-icon.png	--> !!!DIFF!!!
+firefox-nightly-icon.png	--> !!!DIFF!!!
+firefox-nightly.png		--> !!!DIFF!!!
+firefox-trunk.png		--> !!!DIFF!!!
+
+
+
+
+
+########## SYMLINKS TO EXISTING ICONS
+
+##### GNOME
+org.gnome.Firmware.png
+org.gnome.Console.png
+org.gnome.Connections.png
+org.gnome.Calls.png
+sm.puri.Chatty.png
+org.gnome.Extensions.png
+org.gnome.Shell.Extensions.png
+org.gnome.Usage.png
+org.gnome.TextEditor.png
+org.gnome.Tour.png
+
+##### GNOME WORLD
+org.gnome.Games.png
+org.gnome.Eolie.png
+org.gnome.World.Citations.png
+org.gnome.World.PikaBackup.png
+org.gnome.World.Secrets.png
+org.gnome.gitlab.somas.Apostrophe.png
+com.belmoussaoui.Decoder.png
+com.github.hugolabe.Wike.png
+com.github.maoschanz.DynamicWallpaperEditor.png
+audio-sharing.png
+de.haeckerfelix.AudioSharing.png
+de.haeckerfelix.Shortwave.png
+org.gabmus.gfeeds.png
+org.postmarketos.Megapixels.png
+pulseeffects.png
+easyeffects.png
+
+##### OTHER
+org.shotcut.Shotcut.png
+mintnanny.png
+ubiquity.png
+webapp-manager.png
+
+
+
+
+
+########## SYMLINKS FOR NEW ICON NAMES
+
+##### GNOME
+org.gnome.Boxes.png
+org.gnome.Builder.png
+org.gnome.Characters.png
+org.gnome.Cheese.png
+org.gnome.clocks.png
+org.gnome.eog.png
+org.gnome.gedit.png
+org.gnome.Music.png
+org.gnome.Notes.png
+org.gnome.Podcasts.png
+org.gnome.Settings.png
+org.gnome.Solanum.png
+org.gnome.tweaks.png
+
+##### GAMES
+org.gnome.Chess.png
+org.gnome.five-or-more.png
+org.gnome.Four-in-a-row.png
+org.gnome.Klotski.png
+org.gnome.LightsOff.png
+org.gnome.Mahjongg.png
+org.gnome.Mines.png
+org.gnome.Nibbles.png
+org.gnome.Quadrapassel.png
+org.gnome.Reversi.png
+org.gnome.Robots.png
+org.gnome.Sudoku.png
+org.gnome.SwellFoop.png
+org.gnome.Tali.png
+org.gnome.Tetravex.png
+org.gnome.TwentyFortyEight.png
+
+##### OTHER
+drawing.png
+org.mozilla.firefox.png
+mscore3.png
+signal-desktop.png
+torbrowser.png
+TeamViewer.png
+calc.png --> !!!DIFF!!!		--> FOR THE NIX PACKAGE
+base.png			--> FOR THE NIX PACKAGE
+draw.png			--> FOR THE NIX PACKAGE
+impress.png			--> FOR THE NIX PACKAGE
+math.png			--> FOR THE NIX PACKAGE
+startcenter.png			--> FOR THE NIX PACKAGE
+writer.png			--> FOR THE NIX PACKAGE
