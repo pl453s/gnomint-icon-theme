@@ -41,14 +41,14 @@ org.gnome.Tour.png
 ##### GNOME WORLD
 org.gnome.Games.png
 org.gnome.Eolie.png
-org.gnome.World.Citations.png
+org.gnome.World.Citations.png --> !!!COPY!!!
 org.gnome.World.PikaBackup.png
 org.gnome.World.Secrets.png
 org.gnome.gitlab.somas.Apostrophe.png
 com.belmoussaoui.Decoder.png
 com.github.hugolabe.Wike.png
 com.github.maoschanz.DynamicWallpaperEditor.png
-audio-sharing.png
+audio-sharing.png --> !!!COPY!!!
 de.haeckerfelix.AudioSharing.png
 de.haeckerfelix.Shortwave.png
 org.gabmus.gfeeds.png
@@ -58,8 +58,8 @@ easyeffects.png
 
 ##### OTHER
 org.shotcut.Shotcut.png
-mintnanny.png
-ubiquity.png
+mintnanny.png --> !!!COPY!!!
+ubiquity.png --> !!!COPY!!!
 webapp-manager.png
 
 
