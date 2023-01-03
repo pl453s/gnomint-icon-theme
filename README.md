@@ -13,8 +13,6 @@
 
 ## Credits
 
-- 'Gnomint' is based on 'Mint-Y' by the 'Linux Mint Team' --> [https://github.com/linuxmint](https://github.com/linuxmint)
+- 'Gnomint' is based on 'Yaru' by the 'Ubuntu Community' --> [https://github.com/ubuntu/yaru](https://github.com/ubuntu/yaru)
+- 'Gnomint' is based on 'Mint-Y' by the 'Linux Mint Team' --> [https://github.com/linuxmint/mint-y-icons](https://github.com/linuxmint/mint-y-icons)
 - 'Mint-Y' is based on 'Moka' (apps) by 'Sam Hewitt' --> [https://github.com/snwh/moka-icon-theme](https://github.com/snwh/moka-icon-theme)
-- 'Mint-Y' is based on 'Arc' (folders) by 'horst3180' --> [https://github.com/horst3180/arc-icon-theme](https://github.com/horst3180/arc-icon-theme)
-- 'Mint-Y' is based on 'Paper' (devices) by 'Sam Hewitt' --> [https://github.com/snwh/paper-icon-theme](https://github.com/snwh/paper-icon-theme)
-- 'Mint-Y' is based on 'Elementary' (mimetypes) by 'Elementary OS' --> [https://github.com/elementary/icons](https://github.com/elementary/icons)
