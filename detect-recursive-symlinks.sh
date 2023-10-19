@@ -1,6 +1,6 @@
 #!/bin/bash
 bak=$(pwd)
-for path in Gnomint/*/*
+for path in icons/*/*/*
 do
 	cd "$path"
 	for icon in *

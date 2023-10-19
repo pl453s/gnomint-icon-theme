@@ -1,0 +1,44 @@
+{
+  "styles": [
+    {
+      "name": "Gnomint",
+      "default": "mixed",
+      "light": [
+        {"name": "Mint",   "color": "#35a854", "themes": "Mint-Y",        "icons": "Gnomint",        "cinnamon": "Mint-Y",        "cursor": "Adwaita", "default": "true"},
+        {"name": "Teal",   "color": "#199ca8", "themes": "Mint-Y-Teal",   "icons": "Gnomint-Teal",   "cinnamon": "Mint-Y-Teal",   "cursor": "Adwaita"},
+        {"name": "Aqua",   "color": "#1f9ede", "themes": "Mint-Y-Aqua",   "icons": "Gnomint-Aqua",   "cinnamon": "Mint-Y-Aqua",   "cursor": "Adwaita"},
+        {"name": "Blue",   "color": "#0c75de", "themes": "Mint-Y-Blue",   "icons": "Gnomint-Blue",   "cinnamon": "Mint-Y-Blue",   "cursor": "Adwaita"},
+        {"name": "Purple", "color": "#8c5dd9", "themes": "Mint-Y-Purple", "icons": "Gnomint-Purple", "cinnamon": "Mint-Y-Purple", "cursor": "Adwaita"},
+        {"name": "Pink",   "color": "#e54980", "themes": "Mint-Y-Pink",   "icons": "Gnomint-Pink",   "cinnamon": "Mint-Y-Pink",   "cursor": "Adwaita"},
+        {"name": "Red",    "color": "#e82127", "themes": "Mint-Y-Red",    "icons": "Gnomint-Red",    "cinnamon": "Mint-Y-Red",    "cursor": "Adwaita"},
+        {"name": "Orange", "color": "#ff7139", "themes": "Mint-Y-Orange", "icons": "Gnomint-Orange", "cinnamon": "Mint-Y-Orange", "cursor": "Adwaita"},
+        {"name": "Sand",   "color": "#c5a07c", "themes": "Mint-Y-Sand",   "icons": "Gnomint-Sand",   "cinnamon": "Mint-Y-Sand",   "cursor": "Adwaita"},
+        {"name": "Grey",   "color": "#70737a", "themes": "Mint-Y-Grey",   "icons": "Gnomint-Grey",   "cinnamon": "Mint-Y-Grey",   "cursor": "Adwaita"}
+      ],
+      "mixed": [
+        {"name": "Mint",   "color": "#35a854", "themes": "Mint-Y",        "icons": "Gnomint",        "cinnamon": "Mint-Y-Dark",        "cursor": "Adwaita", "default": "true"},
+        {"name": "Teal",   "color": "#199ca8", "themes": "Mint-Y-Teal",   "icons": "Gnomint-Teal",   "cinnamon": "Mint-Y-Dark-Teal",   "cursor": "Adwaita"},
+        {"name": "Aqua",   "color": "#1f9ede", "themes": "Mint-Y-Aqua",   "icons": "Gnomint-Aqua",   "cinnamon": "Mint-Y-Dark-Aqua",   "cursor": "Adwaita"},
+        {"name": "Blue",   "color": "#0c75de", "themes": "Mint-Y-Blue",   "icons": "Gnomint-Blue",   "cinnamon": "Mint-Y-Dark-Blue",   "cursor": "Adwaita"},
+        {"name": "Purple", "color": "#8c5dd9", "themes": "Mint-Y-Purple", "icons": "Gnomint-Purple", "cinnamon": "Mint-Y-Dark-Purple", "cursor": "Adwaita"},
+        {"name": "Pink",   "color": "#e54980", "themes": "Mint-Y-Pink",   "icons": "Gnomint-Pink",   "cinnamon": "Mint-Y-Dark-Pink",   "cursor": "Adwaita"},
+        {"name": "Red",    "color": "#e82127", "themes": "Mint-Y-Red",    "icons": "Gnomint-Red",    "cinnamon": "Mint-Y-Dark-Red",    "cursor": "Adwaita"},
+        {"name": "Orange", "color": "#ff7139", "themes": "Mint-Y-Orange", "icons": "Gnomint-Orange", "cinnamon": "Mint-Y-Dark-Orange", "cursor": "Adwaita"},
+        {"name": "Sand",   "color": "#c5a07c", "themes": "Mint-Y-Sand",   "icons": "Gnomint-Sand",   "cinnamon": "Mint-Y-Dark-Sand",   "cursor": "Adwaita"},
+        {"name": "Grey",   "color": "#70737a", "themes": "Mint-Y-Grey",   "icons": "Gnomint-Grey",   "cinnamon": "Mint-Y-Dark-Grey",   "cursor": "Adwaita"}
+      ],
+      "dark": [
+        {"name": "Mint",   "color": "#35a854", "themes": "Mint-Y-Dark",        "icons": "Gnomint",        "cinnamon": "Mint-Y-Dark",        "cursor": "Adwaita", "default": "true"},
+        {"name": "Teal",   "color": "#199ca8", "themes": "Mint-Y-Dark-Teal",   "icons": "Gnomint-Teal",   "cinnamon": "Mint-Y-Dark-Teal",   "cursor": "Adwaita"},
+        {"name": "Aqua",   "color": "#1f9ede", "themes": "Mint-Y-Dark-Aqua",   "icons": "Gnomint-Aqua",   "cinnamon": "Mint-Y-Dark-Aqua",   "cursor": "Adwaita"},
+        {"name": "Blue",   "color": "#0c75de", "themes": "Mint-Y-Dark-Blue",   "icons": "Gnomint-Blue",   "cinnamon": "Mint-Y-Dark-Blue",   "cursor": "Adwaita"},
+        {"name": "Purple", "color": "#8c5dd9", "themes": "Mint-Y-Dark-Purple", "icons": "Gnomint-Purple", "cinnamon": "Mint-Y-Dark-Purple", "cursor": "Adwaita"},
+        {"name": "Pink",   "color": "#e54980", "themes": "Mint-Y-Dark-Pink",   "icons": "Gnomint-Pink",   "cinnamon": "Mint-Y-Dark-Pink",   "cursor": "Adwaita"},
+        {"name": "Red",    "color": "#e82127", "themes": "Mint-Y-Dark-Red",    "icons": "Gnomint-Red",    "cinnamon": "Mint-Y-Dark-Red",    "cursor": "Adwaita"},
+        {"name": "Orange", "color": "#ff7139", "themes": "Mint-Y-Dark-Orange", "icons": "Gnomint-Orange", "cinnamon": "Mint-Y-Dark-Orange", "cursor": "Adwaita"},
+        {"name": "Sand",   "color": "#c5a07c", "themes": "Mint-Y-Dark-Sand",   "icons": "Gnomint-Sand",   "cinnamon": "Mint-Y-Dark-Sand",   "cursor": "Adwaita"},
+        {"name": "Grey",   "color": "#70737a", "themes": "Mint-Y-Dark-Grey",   "icons": "Gnomint-Grey",   "cinnamon": "Mint-Y-Dark-Grey",   "cursor": "Adwaita"}
+      ]
+    }
+  ]
+}

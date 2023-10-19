@@ -1,0 +1,19 @@
+{
+	"styles": [
+		{
+			"name": "Gnomint",
+			"icon-themes": [
+				{"name": "Mint",   "color": "#35a854", "theme": "Gnomint"},
+				{"name": "Teal",   "color": "#199ca8", "theme": "Gnomint-Teal"},
+				{"name": "Aqua",   "color": "#1f9ede", "theme": "Gnomint-Aqua"},
+				{"name": "Blue",   "color": "#0c75de", "theme": "Gnomint-Blue"},
+				{"name": "Purple", "color": "#8c5dd9", "theme": "Gnomint-Purple"},
+				{"name": "Pink",   "color": "#e54980", "theme": "Gnomint-Pink"},
+				{"name": "Red",    "color": "#e82127", "theme": "Gnomint-Red"},
+				{"name": "Orange", "color": "#ff7139", "theme": "Gnomint-Orange"},
+				{"name": "Sand",   "color": "#c5a07c", "theme": "Gnomint-Sand"},
+				{"name": "Grey",   "color": "#70737a", "theme": "Gnomint-Grey"}
+			]
+		}
+	]
+}
