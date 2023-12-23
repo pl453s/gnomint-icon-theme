@@ -6,16 +6,16 @@
 
 ## Additions
 
-- New icons: Fragments / Zoom / AnyDesk
-- New variants: Firefox Nightly / System File Manager
-- Symlinks to existing icons for the Gnome apps and other new apps
-- Symlinks to fix new icon names (like with Flathub apps)
+- New icons: Fragments / Zoom
+- New variants: Firefox Nightly / System File Manager / Ubuntu Software
+- Symlinks: Gnome core apps, Gnome circle apps, other new apps...
+- Symlinks: fix new icon names (new.application.identifier)
 
 *Differences full list in the 'DIFF' file*
 
 ## Cinnamon
 
-Gnomint is compatible with the brand-new Cinnamon Style and Folder Color Switcher functions!
+Gnomint is now compatible with the brand-new Cinnamon Style and Folder Color Switcher functions!
 
 It is highly recommended to use this icons pack with the "Mint-Y" graphic themes installed.
 
